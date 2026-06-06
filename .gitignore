@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Temp / fix scripts
+fix.py
+check.py
+verify.py
+move_pages.py
+fix_index.py
+fix_paths.py
+*.log

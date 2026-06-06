@@ -102,25 +102,6 @@ cd cafedine
 
 ---
 
-## Contact Info
-
-| Field | Value |
-|-------|-------|
-| Phone | +91 94262 87454 |
-| Email | mail@support.com |
-| Address | 248-249, KBC, Katargam, Surat |
-
----
-
-## Opening Hours
-
-| Days | Hours |
-|------|-------|
-| Monday – Thursday | 10:00 AM – 11:00 PM |
-| Friday – Sunday | 12:00 AM – 03:00 AM |
-
----
-
 ## Roadmap
 
 - [ ] Backend integration for reservation form (Node.js / PHP)
